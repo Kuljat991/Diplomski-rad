@@ -105,3 +105,4 @@ install_manifest.txt
 inspyred/
 __pycache__/
 .directory
+*.png
